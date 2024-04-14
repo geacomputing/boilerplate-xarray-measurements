@@ -1,0 +1,6 @@
+xarray
+pandas
+matplotlib
+cftime
+netCDF4
+cartopy
