@@ -28,5 +28,7 @@ While the second option is the easiest, we highly recommend giving the first opt
 ![Example of creating a virtual env. in conda](_screenshots/conda.png)
 
 This output was created, on a linux terminal, with this command: 
+
 ```conda list | grep -E "xarray|cartopy|pandas" ```
+
 (assuming you have created and activate a virtual env. called 'xarray')
