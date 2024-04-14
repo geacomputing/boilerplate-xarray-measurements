@@ -1,0 +1,228 @@
+﻿SensorID,gr_name,en_name,symbol,unit,decimal_num
+1,Θερμοκρασία Αέρα 1.2m(av),AIR TEMPERATURE 1.2m(av),TAir (av),°C,1
+2,Θερμοκρασία Αέρα 1.2m(max),AIR TEMPERATURE 1.2m(max),TAir (max),°C,1
+3,Θερμοκρασία Αέρα 1.2m(min),AIR TEMPERATURE 1.2m(min),TAir (min),°C,1
+4,Θερμοκρασία Αέρα 1.2m(s),AIR TEMPERATURE 1.2m(s),TAir (s),°C,1
+6,Σχετική Υγρασία 1.2m(av),RELATIVE HUMIDITY 1.2m(av),RH (av),%,0
+7,Σχετική Υγρασία 1.2m(max),RELATIVE HUMIDITY 1.2m(max),RH (max),%,0
+8,Σχετική Υγρασία 1.2m(min),RELATIVE HUMIDITY 1.2m(min),RH (min),%,0
+9,Σχετική Υγρασία 1.2m(s),RELATIVE HUMIDITY 1.2m(s),RH (s),%,0
+11,Ταχύτητα Ανέμου 10m(max),WIND SPEED 10m(max),WS10 (max),m/s,1
+12,Ταχύτητα Ανέμου 10m(min),WIND SPEED 10m(min),WS10 (min),m/s,1
+13,Ταχύτητα Ανέμου 10m(s),WIND SPEED 10m(s),WS10 (s),m/s,1
+15,Διεύθυνση Ανέμου 10m(s),WIND DIRECTION 10m(s),WD10 (s),°,0
+17,Θερμοκρασία Αέρα 5cm(av),AIR TEMPERATURE 5cm(av),T+5 (av),°C,1
+18,Θερμοκρασία Αέρα 5cm(max),AIR TEMPERATURE 5cm(max),T+5 (max),°C,1
+19,Θερμοκρασία Αέρα 5cm(min),AIR TEMPERATURE 5cm(min),T+5 (min),°C,1
+20,Θερμοκρασία Αέρα 5cm(s),AIR TEMPERATURE 5cm(s),T+5 (s),°C,1
+22,Ταχύτητα Ανέμου 2m(av),WIND SPEED 2m(av),WS2 (av),m/s,1
+23,Ταχύτητα Ανέμου 2m(max),WIND SPEED 2m(max),WS2 (max),m/s,1
+24,Ταχύτητα Ανέμου 2m(min),WIND SPEED 2m(min),WS2 (min),m/s,1
+25,Ταχύτητα Ανέμου 2m(s),WIND SPEED 2m(s),WS2 (s),m/s,1
+27,Βροχόπτωση(tot),RAIN (tot),Rain (tot),mm,1
+28,Θερμοκρασία Εδάφους 5cm(av),SOIL TEMPERATURE 5cm(av),Soil5 (av),°C,1
+29,Θερμοκρασία Εδάφους 5cm(max),SOIL TEMPERATURE 5cm(max),Soil5 (max),°C,1
+30,Θερμοκρασία Εδάφους 5cm(min),SOIL TEMPERATURE 5cm(min),Soil5 (min),°C,1
+31,Θερμοκρασία Εδάφους 5cm(s),SOIL TEMPERATURE 5cm(s),Soil5 (s),°C,1
+32,Θερμοκρασία Εδάφους 10cm(av),SOIL TEMPERATURE 10cm(av),Soil10 (av),°C,1
+33,Θερμοκρασία Εδάφους 10cm(max),SOIL TEMPERATURE 10cm(max),Soil10 (max),°C,1
+34,Θερμοκρασία Εδάφους 10cm(min),SOIL TEMPERATURE 10cm(min),Soil10 (min),°C,1
+35,Θερμοκρασία Εδάφους 10cm(s),SOIL TEMPERATURE 10cm(s),Soil10 (s),°C,1
+36,Θερμοκρασία Εδάφους 20cm(av),SOIL TEMPERATURE 20cm(av),Soil20 (av),°C,1
+37,Θερμοκρασία Εδάφους 20cm(max),SOIL TEMPERATURE 20cm(max),Soil20 (max),°C,1
+38,Θερμοκρασία Εδάφους 20cm(min),SOIL TEMPERATURE 20cm(min),Soil20 (min),°C,1
+39,Θερμοκρασία Εδάφους 20cm(s),SOIL TEMPERATURE 20cm(s),Soil20 (s),°C,1
+40,Ηλιακή Ακτινοβολία(av),GLOBAL SOLAR RADIATION(av),GlobRad(av),W/m²,0
+41,Ηλιακή Ακτινοβολία(max),GLOBAL SOLAR RADIATION(max),GlobRad(max),W/m²,0
+42,Ηλιακή Ακτινοβολία(min),GLOBAL SOLAR RADIATION(min),GlobRad(min),W/m²,0
+43,Ηλιακή Ακτινοβολία(s),GLOBAL SOLAR RADIATION(s),GlobRad(s),W/m²,0
+45,Ηλιακή Ακτινοβολία(tot),GLOBAL SOLAR RADIATION(tot),GlobRad(tot),W/m²,0
+46,Κάθετη Ηλιακή Ακτινοβολία(av),DIRECT SOLAR RADIATION(av),DirRadD(av),W/m²,0
+47,Κάθετη ΗλιακήΑκτινοβολία(max),DIRECT SOLAR RADIATION(max),DirRadD(max),W/m²,0
+48,Κάθετη ΗλιακήΑκτινοβολία(min),DIRECT SOLAR RADIATION(min),DirRadD(min),W/m²,0
+49,Κάθετη Ηλιακή Ακτινοβολία(s),DIRECT SOLAR RADIATION(s),DirRadD(s),W/m²,0
+51,Κάθετη ΗλιακήΑκτινοβολία(tot),DIRECT SOLAR RADIATION(tot),DirRadD(tot),W/m²,0
+52,Διάρκεια Ηλιοφάνειας(tot),SUNSHINE DURATION(tot),Sun(tot),Minutes,1
+53,Μπαταρία(s),BATTERY(s),Bat(s),Volt,2
+54,Ταχύτητα Ανέμου 10m(av),WIND SPEED 10m(av),WS10 (av),m/s,1
+55,Διεύθυνση Ανέμου 10m(av),WIND DIRECTION 10m(av),WD10 (av),°,0
+56,Σημείο Δρόσου,DEW POINT,Dew_Point,°C,0
+57,Vector Ταχύτητας Ανέμου,VECTOR WIND SPEED 10m(av),Vector WS10(v),m/s,1
+58,Vector Διεύθυνσης Ανέμου,PREVAILING WIND DIRECTION 10m(av),Vector WD(v),°,0
+59,Πίεση(av),PRESSURE SL(av),Press (av),hPa,1
+60,Φωτοσυνθετική Ακτινοβολία(s),PAR(s),Par_Lite(s),μmol/s.m²,0
+61,Φωτοσυνθετική Ακτινοβολία(av),PAR(av),Par_Lite(av),μmol/s.m²,0
+62,Φωτοσυνθετική Ακτινοβολία(max),PAR(max),Par_Lite(max),μmol/s.m²,0
+63,Φωτοσυνθετική Ακτινοβολία(min),PAR(min),Par_Lite(min),μmol/s.m²,0
+65,Φωτοσυνθετική Ακτινοβολία(tot),PAR(tot),Par_Lite(tot),μmol/s.m²,0
+66,Διάχυτη Ηλιακή Ακτινοβολία(s),DIFFUSE SOLAR RADIATION(s),Sol_Diff(s),W/m²,1
+67,Διάχυτη Ηλιακή Ακτινοβολία(av),DIFFUSE SOLAR RADIATION(av),Sol_Diff(av),W/m²,1
+68,Διάχυτη Ηλιακή Ακτινοβολία(max),DIFFUSE SOLAR RADIATION(max),Sol_Diff(max),W/m²,1
+69,Διάχυτη Ηλιακή Ακτινοβολία(min),DIFFUSE SOLAR RADIATION(min),Sol_Diff(min),W/m²,1
+70,Άμεση Ηλιακή Ακτινοβολία(s),DIRECT SOLAR RADIATION(s),Direct(s),W/m²,1
+71,Άμεση Ηλιακή Ακτινοβολία(av),DIRECT SOLAR RADIATION(av),Direct(av),W/m²,1
+72,Άμεση Ηλιακή Ακτινοβολία(max),DIRECT SOLAR RADIATION(max),Direct(max),W/m²,1
+73,Άμεση Ηλιακή Ακτινοβολία(min),DIRECT SOLAR RADIATION(min),Direct(min),W/m²,1
+74,% ανακλώμενης ακτινοβολίας(s),ALBEDO(s),Albedo(s),%,1
+75,% ανακλώμενης ακτινοβολίας(av),ALBEDO(av),Albedo(av),%,1
+76,% ανακλώμενης ακτινοβολίας(max),ALBEDO(max),Albedo(max),%,1
+77,% ανακλώμενης ακτινοβολίας(min),ALBEDO(min),Albedo(min),%,1
+78,Ανακλώμενη Ηλιακή Ακτινοβολία(s),REFLECTED  SOLAR RADIATION(s),Rad_Refl(s),W/m²,1
+79,Ανακλώμενη Ηλιακή Ακτινοβολία(av),REFLECTED  SOLAR RADIATION(av),Rad_Refl(av),W/m²,1
+80,Ανακλώμενη Ηλιακή Ακτινοβολία(max),REFLECTED  SOLAR RADIATION(max),Rad_Refl(max),W/m²,1
+81,Ανακλώμενη Ηλιακή Ακτινοβολία(min),REFLECTED  SOLAR RADIATION(min),Rad_Refl(min),W/m²,1
+82,Προσπ.Ακτ.Μεγ.Μήκ(s),DOWNWARD LONGWAVE RADIATION(s),Downward(s),W/m²,1
+83,Προσπ.Ακτ.Μεγ.Μήκ(av),DOWNWARD LONGWAVE RADIATION(av),Downward(av),W/m²,1
+84,Προσπ.Ακτ.Μεγ.Μήκ(max),DOWNWARD LONGWAVE RADIATION(max),Downward(max),W/m²,1
+85,Προσπ.Ακτ.Μεγ.Μήκ(min),DOWNWARD LONGWAVE RADIATION(min),Downward(min),W/m²,1
+86,Γήινη Ακτινοβολία(s),UPWARD LONGWAVE RADIATION(s),Upward(s),W/m²,1
+87,Γήινη Ακτινοβολία(av),UPWARD LONGWAVE RADIATION(av),Upward(av),W/m²,1
+88,Γήινη Ακτινοβολία(max),UPWARD LONGWAVE RADIATION(max),Upward(max),W/m²,1
+89,Γήινη Ακτινοβολία(min),UPWARD LONGWAVE RADIATION(min),Upward(min),W/m²,1
+90,Υπεριώδης Ακτνοβολία Α(s),UVA(s),UVA(s),W/m²,2
+91,Υπεριώδης Ακτνοβολία Α(av),UVA(av),UVA(av),W/m²,2
+92,Υπεριώδης Ακτνοβολία Α(max),UVA(max),UVA(max),W/m²,2
+93,Υπεριώδης Ακτνοβολία Α(min),UVA(min),UVA(min),W/m²,2
+94,Υπεριώδης Ακτνοβολία B(s),UVB(s),UVB(s),W/m²,2
+95,Υπεριώδης Ακτνοβολία B(av),UVB(av),UVB(av),W/m²,2
+96,Υπεριώδης Ακτνοβολία B(max),UVB(max),UVB(max),W/m²,2
+97,Υπεριώδης Ακτνοβολία B(min),UVB(min),UVB(min),W/m²,2
+98,Υπεριώδης Ακτνοβολία E(s),UVE(s),UVE(s),W/m²,3
+99,Υπεριώδης Ακτνοβολία E(av),UVE(av),UVE(av),W/m²,3
+100,Υπεριώδης Ακτνοβολία E(max),UVE(max),UVE(max),W/m²,3
+101,Υπεριώδης Ακτνοβολία E(min),UVE(min),UVE(min),W/m²,3
+102,Δείκτης Υπεριώδης Ακτιv(s),UV INDEX(s),UV_Index(s),-,0
+103,Δείκτης Υπεριώδης Ακτιv(av),UV INDEX(av),UV_Index(av),-,0
+104,Δείκτης Υπεριώδης Ακτιv(max),UV INDEX(max),UV_Index(max),-,0
+105,Δείκτης Υπεριώδης Ακτιv(min),UV INDEX(min),UV_Index(min),-,0
+106,Καθ Ακτινοβ Μικρού Μήκους κύμ,NET SHORTWAVE RADIATION(s),NetShort(s),W/m²,1
+107,Καθ Ακτινοβ Μικρού Μήκους κύμ,NET SHORTWAVE RADIATION(av),NetShort(av),W/m²,1
+108,Καθ Ακτινοβ Μικρού Μήκους κύμ,NET SHORTWAVE RADIATION(max),NetShort(max),W/m²,1
+109,Καθ Ακτινοβ Μικρού Μήκους κύμ,NET SHORTWAVE RADIATION(min),NetShort(min),W/m²,1
+110,Καθ Ακτινοβ Μεγ Μήκους κύματο,NET LONGWAVE RADIATION(s),NetLong(s),W/m²,1
+111,Καθ Ακτινοβ Μεγ Μήκους κύματο,NET LONGWAVE RADIATION(av),NetLong(av),W/m²,1
+112,Καθ Ακτινοβ Μεγ Μήκους κύματος(max),NET LONGWAVE RADIATION(max),NetLong(max),W/m²,1
+113,Καθ Ακτινοβ Μεγ Μήκους κύματος(min),NET LONGWAVE RADIATION(min),NetLong(min),W/m²,1
+114,Καθαρή Ακτινοβολία(s),NET RADIATION(s),NetRad(s),W/m²,1
+115,Καθαρή Ακτινοβολία(av),NET RADIATION(av),NetRad(av),W/m²,1
+116,Καθαρή Ακτινοβολία(max),NET RADIATION(max),NetRad(max),W/m²,1
+117,Καθαρή Ακτινοβολία(min),NET RADIATION(min),NetRad(min),W/m²,3
+118,Υπεριώδης Ακτνοβολία Α(tot),UVA(tot),UVA(tot),W/m²,2
+120,Υπεριώδης Ακτνοβολία B(tot),UVB(tot),UVB(tot),W/m²,2
+122,Υπεριώδης Ακτνοβολία E(tot),UVE(tot),UVE(tot),W/m²,3
+127,Ταχύτητα Ανέμου RWY22(av),WIND SPEED 10m RWY22(av),WS10 RWY22 (av),Kts,1
+128,Ταχύτητα Ανέμου RWY22(max),WIND SPEED 10m RWY22(max),WS10 RWY22 (max),kts,1
+129,Μπαταρία RWY29(min),BATTERY RWY29,Batt RWY29(min),Volt,1
+130,Ύψος Χιονιού,SNOW LEVEL (s),Snow (s),cm,0
+131,Μπαταρία RWY22(min),BATTERY RWY22,Batt RWY22(min),Volt,1
+132,Ταχύτητα Ανέμου RWY29(av),WIND SPEED 10m RWY29(av),WS10 RWY29 (av),Kts,1
+133,Ταχύτητα Ανέμου RWY29(max),WIND SPEED 10m RWY29(max),WS10 RWY29 (max),kts,1
+134,Ταχύτητα Ανέμου RWY04(av),WIND SPEED 10m RWY04(av),WS10 RWY04 (av),Kts,1
+135,Ταχύτητα Ανέμου RWY04(max),WIND SPEED 10m RWY04(max),WS10 RWY04 (max),Kts,1
+136,Ταχύτητα Ανέμου RWY11(av),WIND SPEED 10m RWY11(av),WS10 RWY11 (av),Kts,1
+137,Ταχύτητα Ανέμου RWY11(max),WIND SPEED 10m RWY11(max),WS10 RWY11 (max),Kts,1
+138,Ταχύτητα Ανέμου 10m(av),WIND SPEED 10m(av),WS10 (av),Kts,1
+139,Ταχύτητα Ανέμου 10m(min),WIND SPEED 10m(min),WS10 (min),Kts,1
+140,Ταχύτητα Ανέμου 10m(max),WIND SPEED 10m(max),WS10 (max),Kts,1
+141,Διεύθυνση Ανέμου 10m(min),WIND DIRECTION 10m(min),WD10 (min),°,0
+142,Διεύθυνση Ανέμου RWY04(av),WIND DIRECTION RWY04(av),WD10 RWY04 (av),°,0
+143,Διεύθυνση Ανέμου 10m(max),WIND DIRECTION 10m(max),WD10 (max),°,0
+144,Διεύθυνση Ανέμου RWY29(av),WIND DIRECTION RWY29(av),WD10 RWY29 (av),°,0
+145,Διεύθυνση Ανέμου RWY22(av),WIND DIRECTION RWY22(av),WD10 RWY22 (av),°,0
+146,Διεύθυνση Ανέμου RWY11(av),WIND DIRECTION RWY11(av),WD10 RWY11 (av),°,0
+147,Μπαταρία RWY11(min),BATTERY RWY11,Batt RWY11(min),Volt,1
+148,Μπαταρία RWY04(min),BATTERY RWY04,Batt RWY04(min),Volt,1
+150,Ηλιοφάνεια (tot),SUNSHINE (tot),Sunshine(tot),minutes,0
+151,Ηλιοφάνεια (min),SUNSHINE (min),Sunshine(min),hrs,0
+152,Ηλιοφάνεια (av),SUNSHINE (av),Sunshine(av),hrs,0
+153,Ηλιοφάνεια (max),SUNSHINE (max),Sunshine(max),hrs,0
+155,Πίεση(min),PRESSURE SL(min),Press (min),hPa,1
+156,Πίεση(max),PRESSURE SL(max),Press (max),hPa,1
+158,Πίεση(s),PRESSURE SL(s),Press (s),hPa,1
+159,Ενέργεια(min),ENERGY(min),Energy(min),KJ/m²,0
+160,Ενέργεια(max),ENERGY(max),Energy(max),KJ/m²,0
+161,Ενέργεια(avg),ENERGY(avg),Energy(avg),KJ/m²,0
+162,Ενέργεια(tot),ENERGY(tot),Energy(tot),KJ/m²,0
+163,Ενέργεια(s),ENERGY(s),Energy(s),KJ/m²,0
+165,Διεύθυνση Ανέμου 2m(av),PREVAILING WIND DIRECTION 2m(av),WD2(av),°,0
+170,Vector Ταχύτητας Ανέμου 2m,VECTOR WIND SPEED 2m(av),Vector WS2(v),m/s,1
+173,Διεύθυνση Ανέμου 2m(s),WIND DIRECTION 2m(s),WD2 (s),°,0
+174,Ταχύτητα Ανέμου 10m(s),WIND SPEED 10m(s),WS10 (s),Kts,1
+175,Θερμοκρασία Εδάφους 60cm(av),SOIL TEMPERATURE 60cm(av),Soil60 (av),°C,1
+176,Θερμοκρασία Εδάφους 60cm(max),SOIL TEMPERATURE 60cm(max),Soil60 (max),°C,1
+177,Θερμοκρασία Εδάφους 60cm(min),SOIL TEMPERATURE 60cm(min),Soil60 (min),°C,1
+178,Θερμοκρασία Εδάφους 60cm(s),SOIL TEMPERATURE 60cm(s),Soil60 (s),°C,1
+179,Μπαταρία PE(min),"BATTERY P.E. ",Batt PE(min),Volt,1
+180,Ταχύτητα Ανέμου P.E.(av),WIND SPEED 10m P.E.(av),WS_P.E.(av),Kts,1
+181,Ταχύτητα Ανέμου P.E.(max),WIND SPEED 10m P.E.(max),WS_P.E.(max),kts,1
+182,Διεύθυνση Ανέμου P.E.(av),WIND DIRECTION P.E.(av),WD_P.E.(av),°,0
+183,Διεύθυνση Ανέμου 10m P.E.(s),"WIND DIRECTION 10m  P.E.(s) ",WD_10m_P.E(s),°,0
+184,Ταχύτητα Ανέμου P.E.(s),WIND SPEED 10m P.E.(s),WS_P.E.(s),Kts,1
+186,Ταχύτητα Ανέμου RWY12(av),WIND SPEED 10m RWY12(av),WS10 RWY12 (av),Kts,1
+187,Ταχύτητα Ανέμου RWY12(max),WIND SPEED 10m RWY12(max),WS10 RWY12 (max),kts,1
+188,Διεύθυνση Ανέμου RWY12(av),WIND DIRECTION RWY12(av),WD10 RWY12 (av),°,0
+200,Ταχύτητα Ανέμου RWY30(av),WIND SPEED 10m RWY30(av),WS10 RWY30 (av),Kts,1
+201,Ταχύτητα Ανέμου RWY30(max),WIND SPEED 10m RWY30(max),WS10 RWY30 (max),kts,1
+202,Διεύθυνση Ανέμου RWY30(av),WIND DIRECTION RWY30(av),WD10 RWY30 (av),°,0
+203,Διεύθυνση Ανέμου 10m RWY30(s),WIND DIRECTION 10m  RWY30(s),WD_10m_P.E(s),°,0
+204,Ταχύτητα Ανέμου RWY30(s),WIND SPEED 10m RWY30(s),WS_RWY30(s),Kts,1
+243,Ηλιακή Ακτινοβολία(av) - CM6B (Tracker),GLOBAL SOLAR RADIATION(av)  -  CM6B,Gp(av),W/m²,0
+244,Ηλιακή Ακτινοβολία(max)- CM6B (tracker),GLOBAL SOLAR RADIATION(max)  -  CM6B,Gp(max),W/m²,0
+245,Ηλιακή Ακτινοβολία(min) - CM6B (Tracker),GLOBAL SOLAR RADIATION(min)  -  CM6B,Gp(min),W/m²,0
+246,"Ηλιακή Ακτινοβολία(av)  -  Li ",GLOBAL SOLAR RADIATION(av)  -  Li,Gl(av),W/m²,0
+247,Ηλιακή Ακτινοβολία(max)  -  Li,GLOBAL SOLAR RADIATION(max)  -  Li,Gl(max),W/m²,0
+248,"Ηλιακή Ακτινοβολία(min)  -  Li ",GLOBAL SOLAR RADIATION(min)  -  Li,Gl(min),W/m²,0
+249,Ηλιακή Ακτινοβολία(av) - CM11 (Reflected),GLOBAL SOLAR RADIATION(av) - CM11,Gr(av),W/m²,1
+250,Ηλιακή Ακτινοβολία(max)- CM11 (Reflected),GLOBAL SOLAR RADIATION(max) - CM11,Gr(max),W/m²,0
+251,Ηλιακή Ακτινοβολία(min) - CM11 (Reflected),GLOBAL SOLAR RADIATION(min) - CM11,Gr(min),W/m²,0
+252,Διάχυτη  Φωτοσυνθετική Ακτινοβολία(av),DIFFUSE PAR(av),D Par(av),μmol/s.m²,0
+253,Διάχυτη  Φωτοσυνθετική Ακτινοβολία(max),DIFFUSE PAR(max),D Par(max),μmol/s.m²,0
+254,Διάχυτη  Φωτοσυνθετική Ακτινοβολία(min),DIFFUSE PAR(min),D Par(min),μmol/s.m²,0
+255,Μπαταρία RWY12(min),BATTERY RWY12,Batt RWY12(min),Volt,1
+256,Μπαταρία RWY30(min),BATTERY RWY30,Batt RWY30(min),Volt,1
+301,Θερμοκρασία Αέρα 1.2m(av) - ch24,AIR TEMPERATURE 1.2m(av) - ch24,TAir (av) - ch24,°C,1
+302,Θερμοκρασία Αέρα 1.2m(max) - ch24,AIR TEMPERATURE 1.2m(max) - ch24,TAir (max) - ch24,°C,1
+303,Θερμοκρασία Αέρα 1.2m(min) - ch24,AIR TEMPERATURE 1.2m(min) - ch24,TAir (min) - ch24,°C,1
+306,Σχετική Υγρασία 1.2m(av) - ch23,RELATIVE HUMIDITY 1.2m(av) - ch23,RH (av) - ch23,%,0
+307,Σχετική Υγρασία 1.2m(max) - ch23,RELATIVE HUMIDITY 1.2m(max) - ch23,RH (max) - ch23,%,0
+308,Σχετική Υγρασία 1.2m(min) - ch23,RELATIVE HUMIDITY 1.2m(min) - ch23,RH (min) - ch23,%,0
+328,Θερμοκρασία Εδάφους 5cm(av),SOIL TEMPERATURE 5cm(av) -  ch20 (OF),Soil5 (av)  -  ch20 (OF),°C,1
+329,Θερμοκρασία Εδάφους 5cm(max),SOIL TEMPERATURE 5cm(max) -  ch20 (OF),Soil5 (max)  -  ch20 (OF),°C,1
+330,Θερμοκρασία Εδάφους 5cm(min),SOIL TEMPERATURE 5cm(min) -  ch20 (OF),Soil5 (min)  -  ch20 (OF),°C,1
+331,Θερμοκρασία Εδάφους 5cm(s),SOIL TEMPERATURE 5cm(s) -  ch20 (OF),Soil5 (s)  -  ch20 (OF),°C,1
+332,Θερμοκρασία Εδάφους 5cm(av),SOIL TEMPERATURE 5cm(av) -  ch22 (OF),Soil5 (av)  -  ch22 (OF),°C,1
+333,Θερμοκρασία Εδάφους 5cm(max),SOIL TEMPERATURE 5cm(max) -  ch22 (OF),Soil5 (max)  -  ch22 (OF),°C,1
+334,Θερμοκρασία Εδάφους 5cm(min),SOIL TEMPERATURE 5cm(min) -  ch22 (OF),Soil5 (min)  -  ch22 (OF),°C,1
+335,Θερμοκρασία Εδάφους 5cm(s),SOIL TEMPERATURE 5cm(s) -  ch22 (OF),Soil5 (s)  -  ch22 (OF),°C,1
+336,Θερμοκρασία Εδάφους 20cm(av),SOIL TEMPERATURE 20cm(av) -  ch19 (OF),Soil20 (av)  -  ch19 (OF),°C,1
+337,Θερμοκρασία Εδάφους 20cm(max),SOIL TEMPERATURE 20cm(max) -  ch19 (OF),Soil20 (max)  - ch19 (OF),°C,1
+338,Θερμοκρασία Εδάφους 20cm(min),SOIL TEMPERATURE 20cm(min) -  ch19 (OF),Soil20 (min)  - ch19 (OF),°C,1
+339,Θερμοκρασία Εδάφους 20cm(s),SOIL TEMPERATURE 20cm(s) -  ch19 (OF),Soil20 (s)  -  ch19 (OF),°C,1
+340,Θερμοκρασία Εδάφους 20cm(av),SOIL TEMPERATURE 20cm(av) -  ch21 (OF),Soil20 (av)  -  ch21 (OF),°C,1
+341,Θερμοκρασία Εδάφους 20cm(max),SOIL TEMPERATURE 20cm(max) - ch21 (OF),Soil20 (max)  -  ch21,°C,1
+342,Θερμοκρασία Εδάφους 20cm(min),SOIL TEMPERATURE 20cm(min) - ch21 (OF),Soil20 (min)  -  ch21,°C,1
+343,Θερμοκρασία Εδάφους 20cm(s),SOIL TEMPERATURE 20cm(s) -  ch21 (OF),Soil20 (s)  -  ch21 (OF),°C,1
+994,Ηλιακή Ακτινοβολία(tot),GLOBAL SOLAR RADIATION(tot),GlobRad(av),KJ/m²,0
+996,Φωτοσυνθετική Ακτινοβολία(av),PAR,Par_Lite(av),KJ/m²,0
+997,Πίεση MSL(av),PRESSURE MSL(av),Press MSL(av),hPa,1
+1007,Tips,Tips,Tips(tot),NULL,0
+1127,Ταχύτητα Ανέμου RWY22(av),WIND SPEED 10m RWY22(av),WS10 RWY22 (av),m/s,1
+1128,Ταχύτητα Ανέμου RWY22(max),WIND SPEED 10m RWY22(max),WS10 RWY22 (max),m/s,1
+1132,Ταχύτητα Ανέμου RWY29(av),WIND SPEED 10m RWY29(av),WS10 RWY29 (av),m/s,1
+1133,Ταχύτητα Ανέμου RWY29(max),WIND SPEED 10m RWY29(max),WS10 RWY29 (max),m/s,1
+1134,Ταχύτητα Ανέμου RWY04(av),WIND SPEED 10m RWY04(av),WS10 RWY04 (av),m/s,1
+1135,Ταχύτητα Ανέμου RWY04(max),WIND SPEED 10m RWY04(max),WS10 RWY04 (max),m/s,1
+1136,Ταχύτητα Ανέμου RWY11(av),WIND SPEED 10m RWY11(av),WS10 RWY11 (av),m/s,1
+1137,Ταχύτητα Ανέμου RWY11(max),WIND SPEED 10m RWY11(max),WS10 RWY11 (max),m/s,1
+1143,Διεύθυνση Ανέμου 10m(Spec),WIND DIRECTION 10m(Spec),WD10 at Max WS10(s),°,0
+1186,Ταχύτητα Ανέμου RWY12(av),WIND SPEED 10m RWY12(av),WS10 RWY12 (av),m/s,1
+1187,Ταχύτητα Ανέμου RWY12(max),WIND SPEED 10m RWY12(max),WS10 RWY12 (max),m/s,1
+1200,Ταχύτητα Ανέμου RWY30(av),WIND SPEED 10m RWY30(av),WS10 RWY30 (av),m/s,1
+1201,Ταχύτητα Ανέμου RWY30(max),WIND SPEED 10m RWY30(max),WS10 RWY30 (max),m/s,1
+2000,POWER,POWER,POWER,NULL,NULL
+2001,MODEM,MODEM,MODEM,NULL,NULL
+2002,INTERFACE,INTERFACE,INTERFACE,NULL,NULL
+2003,PC,PC,PC,NULL,NULL
+2004,DATALOGGER,DATALOGGER,DATALOGGER,NULL,NULL
+3000,POWER P.E.,POWER P.E.,POWER P.E.,NULL,NULL
+10007,Water Vol,Vol - Rain Test,Vol(tot),ml,1
