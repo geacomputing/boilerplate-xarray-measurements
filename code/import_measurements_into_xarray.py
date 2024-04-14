@@ -52,7 +52,10 @@ ds.attrs['station_name'] = loc[meas['stno'].unique()[0]]
 ds.attrs['lat'] = _lat[meas['stno'].unique()[0]]
 ds.attrs['lon'] = _lon[meas['stno'].unique()[0]]
 ds.attrs['date_created'] = str(dt.datetime.now())
-ds.attrs['created by'] =  "{}, on {}".format(os.getlogin(), os.name) # POSIX stands for "Portable Operating System Interface for Unix."
+try: 
+    ds.attrs['created by'] =  "{}, on {}".format(os.getlogin(), os.name) # POSIX stands for "Portable Operating System Interface for Unix."
+except:
+    pass
 ds.attrs['xarray version'] = xr.__version__
 
 
