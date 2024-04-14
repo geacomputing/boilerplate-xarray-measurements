@@ -23,6 +23,10 @@ You have two options for accessing the code: downloading it locally using "git c
 
 ![Example of binder interface](_screenshots/binder.png)
 
-While the second option is the easiest, we highly recommend giving the first option a try. It offers much more control over the process and the final outcome, reducing dependence on external dependencies to execute your code.
+While the second option is the easiest, we highly recommend giving the first option a try. It offers much more control over the process and the final outcome, reducing dependence on external dependencies to execute your code. 
 
 ![Example of creating a virtual env. in conda](_screenshots/conda.png)
+
+This output was created, on a linux terminal, with this command: 
+```conda list | grep -E "xarray|cartopy|pandas" ```
+(assuming you have created and activate a virtual env. called 'xarray')
