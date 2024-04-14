@@ -16,3 +16,9 @@ The data utilized in this example is real-world data with slight modifications m
 The data is stored in a CSV file, with values not ordered chronologically but structured to reflect database relationships. Each line in the CSV file links a value to a timestamp, a single station, and a sensorId denoting the measured variable. This CSV file represents a typical database query output and will undergo modifications before being used in xarray.
 
 This example aims to demonstrate the straightforward storage of multidimensional data in xarray, complete with metadata. The resulting dataset will not only contain the raw data but also its accompanying metadata descriptions. Also, the final product will be saved to disk as a netCDF4 file. 
+
+
+## How to run this code? 
+You have two options for accessing the code: downloading it locally using "git clone" or running it on the cloud using Binder (more details below). When using Binder, you simply need to paste the GitHub repository address into the Binder user interface (https://mybinder.org/). Binder will then set up everything for you, including the required environment to run this example, handling imports, package installations, and running the code on a cloud-based Jupyter notebook.
+
+While the second option is the easiest, we highly recommend giving the first option a try. It offers much more control over the process and the final outcome, reducing dependence on external dependencies to execute your code.
