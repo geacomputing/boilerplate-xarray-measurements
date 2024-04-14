@@ -31,4 +31,4 @@ This output was created, on a linux terminal, with this command:
 
 ```conda list | grep -E "xarray|cartopy|pandas" ```
 
-(assuming you have created and activate a virtual env. called 'xarray')
+(assuming you have created and activated a virtual env. called 'xarray')
