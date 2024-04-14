@@ -22,3 +22,5 @@ This example aims to demonstrate the straightforward storage of multidimensional
 You have two options for accessing the code: downloading it locally using "git clone" or running it on the cloud using Binder (more details below). When using Binder, you simply need to paste the GitHub repository address into the Binder user interface (https://mybinder.org/). Binder will then set up everything for you, including the required environment to run this example, handling imports, package installations, and running the code on a cloud-based Jupyter notebook.
 
 While the second option is the easiest, we highly recommend giving the first option a try. It offers much more control over the process and the final outcome, reducing dependence on external dependencies to execute your code.
+
+![Example of binder interface](_screenshots/binder.png)
